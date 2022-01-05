@@ -9,7 +9,7 @@
 #include "display.h"
 #include "sensors.h"
 
-// This is my version of main.cpp
+// This is my version of main.cpp Alex
 // this is my second comment
 
 Thread sendingThreadHandle;
